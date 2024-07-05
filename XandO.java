@@ -111,7 +111,4 @@ public class XandO {
         xTurn = true;
     }
 
-    public static void main(String[] args) {
-        new XandO();
-    }
 }
